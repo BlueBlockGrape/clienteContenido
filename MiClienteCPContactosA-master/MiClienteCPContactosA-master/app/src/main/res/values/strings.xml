@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiClienteCPContactos</string>
+    <string name="btn">Nuevo Registro</string>
+    <string name="tv1">Edicion de registros</string>
+    <string name="tv_id">ID</string>
+    <string name="tv_usuario">Usuario</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_tel">Telefono</string>
+    <string name="tv_fech">Nacimiento</string>
+    <string name="btnInsertar">Insertar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnEditar">Editar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnRegresar">Regresar</string>
+</resources>
